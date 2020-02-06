@@ -8,7 +8,8 @@
 
 `incidence/dictionary.csv` contains variable descriptions for data_ncov2019.csv and data_drc2018.csv
 
-`R/plot_example.R` simple example function filtering data to make a basic plot of the 2019-nCoV outbreak
+`R/nationalTimeSeries.R` simple example function filtering data to make a basic plot of the 2019-nCoV outbreak (see Sample Plot below for run instructions)
+
 
 
 ## Other resources
@@ -18,11 +19,13 @@
 [Map of Currently Monitored Infectious Disease Events](https://www.epidemictracker.com/)
 
 
+
 ## Contact
 
 - [email](info@metabiota.com)
 
 - [twitter](https://twitter.com/metabiota)
+
 
 
 ## Data Overview
@@ -35,6 +38,7 @@ This repository contains spatiotemporal data for the following infectious diseas
 Data are collected, structured, and validated by Metabiota’s digital surveillance experts. The data structuring process is designed to produce the most reliable estimates of reported cases and deaths over space and time. The data include case and death counts by source, location, and date. They are collected daily at the highest geographic and temporal resolutions available from multiple official sources. 
 
 This repository will be updated periodically with the latest epidemiological data for the events listed above. Metabiota maintains a database of epidemiological information for over two thousand high-priority infectious disease events. Please contact us (info@metabiota.com) if you are interested in licensing the complete dataset.
+
 
 
 ### Spatial Resolution
@@ -50,6 +54,8 @@ There are differences in administrative division naming practices by country. Ad
 | China         | Hubei         | NA            | NA        | Wuhan         |
 | Germany       | Bavaria       | Upper Bavaria | Starnberg | NA            |
 | United States | Illinois      | Cook County   | NA        | Chicago       |
+
+
 
 ### References
 
@@ -87,6 +93,21 @@ URL: http://www.nhc.gov.cn/yjb/pzhgli/new_list.shtml
 *Metabiota Composite Source:* This source represents the combined data from “HK CHP Severe Respiratory Disease associated with a Novel Infectious Agent” and “NHFPC Health Emergency Office News.” This source does not include suspected cases.
 
 
+
+### Sample Plot
+
+A simple function has been included to illustrate filtering the data and generating a basic national time series plot. You may run this function in the Rstudio environment by running the following command:
+```r
+source("R/nationalTimeSeries.R")
+```
+
+
 ### Quality Assurance
 
 Data are collected by a team of digital surveillance experts and undergo multiple quality assurance tests. After data are collected, they are independently verified by at least one additional analyst. The data also pass an automated validation program to ensure data consistency and integrity.
+
+
+
+### Liability
+
+Metabiota shall in no event be liable for any decision taken by the database user based on the data made available. The entire risk arising out of the use of the database remains with the user. Under no circumstances, shall Metabiota be liable for any damages whatsoever (including, without limitation, damages for loss of business profits, interruption of business activity, loss of business information, or other monetary loss) arising out of the use or inability to use the database.
