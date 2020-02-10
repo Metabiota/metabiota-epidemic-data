@@ -26,7 +26,7 @@ nationalTimeSeries <- function(cumulative = TRUE,outcome = "CASE", location = "C
   confirmdata <- locationdata[CONFIRM_STATUS==confirmstat]
   
   # simple plot 
-  p <- ggplot() + geom_line(data = confirmdata, mapping = aes(x=DATE_HIGH, y=VALUE, group=REFERENCE, color=REFERENCE))
+  p <- ggplot() + geom_line(data = confirmdata, mapping = aes(x=DATE_HIGH, y=VALUE, group=SOURCE, color=SOURCE))
   
   return(p)
 }

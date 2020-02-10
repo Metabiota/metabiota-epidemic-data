@@ -1,21 +1,21 @@
 Variable,DataClass,Example,Description
 EVENT_NAME,Character,"EbolaDRC_2018, nCoV_2019",A descriptive name of the infectious disease event
 PATHOGEN,Character,"2019 Novel Coronavirus (2019-nCoV), Zaire ebolavirus",The name of the causative agent
-REFERENCE,Character,"Democratic Republic of the Congo MOH Communique de Presse, HK CHP Severe Respiratory Disease associated with a Novel Infectious Agent, Metabiota Composite Source, NHFPC Health Emergency Office News, Uganda Ministry of Health Press Releases, WHO DON",Name of the reporting source or entity
-DATE_LOW,Date,2020-01-25,"Lowest date of case or death occurrence represented in report. When the date range is ambiguous in the original report, this value is inferred to be the day after the DATE_HIGH from the previous report."
-DATE_HIGH,Date,2020-01-25,"Highest date of case or death occurrence represented in report. When the date range is ambiguous in the original report, this value is inferred."
-DATE_REPORT,Date,2020-01-25,"Date of report publication. When the publication date is not explicitly stated, the DATE_REPORT is inferred from website source code when available or from analyst collection date."
-DATE_TYPE,Character,"Authority notification, Clinical care sought, Lab test, Report, Specimen collection, Symptom onset, Unknown",Categorization of the date information determined by description in original report. DATE_TYPE may differ from LOCATION_TYPE.
+SOURCE,Character,"Democratic Republic of the Congo MOH Communique de Presse, HK CHP Severe Respiratory Disease associated with a Novel Infectious Agent, Metabiota Composite Source, WHO DON",Name of the reporting source or entity
+DATE_LOW,Date,2020-01-25,"Lowest date reported incidence, when date range in original report is ambiguous, this value is inferred to be the day after the DATE_HIGH from the previous report."
+DATE_HIGH,Date,2020-01-25,"Highest date of reported incidence; when date range in original report is ambiguous, this value is inferred to be DATE_REPORT"
+DATE_REPORT,Date,2020-01-25,"Date of report publication; when not explicitly stated, the DATE_REPORT is inferred from website source code or report access date"
+DATE_TYPE,Character,"Authority notification, Clinical care sought, Lab test, Report, Specimen collection, Symptom onset, Unknown",Category of date information based on description in original report; DATE_TYPE may differ from LOCATION_TYPE
 SPATIAL_RESOLUTION,Character,"AL0, AL1, AL2, AL3, locality, sublocality","Granularity of location where cases and deaths occur corresponding with administrative levels defined by the Google Geo-locations API. AL0, which is equivalent to the country- or territory-level, is available for all sources, while finer resolution is not supplied by all sources."
-AL0_CODE,Character,"AE, AU, BE, CA, CD",The two-letter code assigned to the country or territory where the cases or deaths occur. The code is defined by the International Organization for Standardization (ISO 3166-1 alpha-2 code).
+AL0_CODE,Character,"AE, AU, BE, CA, CD",The two-letter code assigned to the country or territory of incidence. The code is defined by the International Organization for Standardization (ISO 3166-1 alpha-2 code).
 AL0_NAME,Character,"Australia, Belgium, Cambodia, Canada, China","Name of country or territory where case or death is reported to authorities, cared for, or diagnosed, as indicated by LOCATION_TYPE. The name is standardized using the International Organization for Standardization 3166-1 country dataset."
 AL1_CODE,Character,"AU-NSW, AU-QLD, AU-SA, AU-VIC, BE-BRU",The International Organization for Standardization 3166-1 subdivision code that corresponds to AL1_NAME.
 AL1_NAME,Character,"Aichi, Anhui, Arizona, Bangkok, Bavaria","The first-order administrative division where cases and deaths occur. Taken from the original report and standardized using the Google Geolocation API. Administrative Area Level 1 is the largest administrative unit in a country or territory (e.g. state, province)."
 AL2_NAME,Character,"Bohol, Colombo, Cook County, Flemish Brabant, Gironde",The second-order administrative division where cases and deaths occur. Taken from the original report and standardized using the Google Geolocation API.
 AL3_NAME,Character,"Starnberg, Traunstein",The third-order administrative division where cases and deaths occur. Taken from the original report and standardized using the Google Geolocation API.
 LOCALITY_NAME,Character,"Alimbongo, Ariwara, Beijing, Beni, Biena",The name of the locality specified in the original epidemic report and standardized using the Google Geolocation API.
-LOCATION_TYPE,Character,"Clinical care sought, Exposure, Report, Residence, Unknown",Categorization of the location where data were collected or reported.
-CONFIRM_STATUS,Character,"CONFIRMED, PROBABLE, SUSPECTED, TOTAL","Indicator of case or death confirmation status. Total includes suspected, probable, and confirmed cases. TOTAL value includes cases and deaths where confirmation status not reported"
+LOCATION_TYPE,Character,"Clinical care sought, Exposure, Report, Residence, Unknown",Category of location information based on description in original report; LOCATION_TYPE may differ from DATE_TYPE
+CONFIRM_STATUS,Character,"CONFIRMED, PROBABLE, SUSPECTED, TOTAL","Indicator of case or death confirmation status. TOTAL includes suspected, probable, and confirmed cases, and incidence where confirmation status is not reported"
 OUTCOME,Character,"CASE, DEATH",Indicator for whether VALUE refers to case or death counts. Deaths are assumed to be included in the case count.
 CUMULATIVE_FLAG,Logical,"FALSE, TRUE",Flag indicating whether VALUE is cumulative (TRUE) or new (FALSE) case or death counts
 VALUE,Numeric,"1, 2, 3, 4",Number of cases or deaths
