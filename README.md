@@ -15,6 +15,10 @@
 `R/nationalTimeSeries.R` simple example function filtering data to make a basic plot of the 2019-nCoV outbreak (see Sample Plot below for run instructions)
 
 
+## Citation
+
+Metabiota (2020) Epidemic Data for 2019-Novel Coronavirus (2019-nCoV) and Zaire ebolavirus in the DRC. Metabiota. San Francisco, California. www.metabiota.com
+
 ## Other Resources from Metabiota
 
 [Map of 2019-nCoV](https://www.epidemictracker.com/2019-Novel-Coronavirus-2019-nCoV)
@@ -104,3 +108,9 @@ source("R/nationalTimeSeries.R")
 ### Quality Assurance
 
 Data are collected by a team of digital surveillance experts and undergo many quality assurance tests. After data are collected, they are independently verified by at least one additional analyst. The data also pass an automated validation program to ensure data consistency and integrity.
+
+
+
+### Liability
+
+Metabiota shall in no event be liable for any decision taken by the user based on the data made available. Under no circumstances, shall Metabiota be liable for any damages whatseover arising out of the use or inability to use the database. The entire risk arising out of the use of the database remains with the user.
