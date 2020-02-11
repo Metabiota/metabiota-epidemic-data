@@ -31,8 +31,7 @@ Metabiota (2020) Epidemic Data for 2019-Novel Coronavirus (2019-nCoV) and Zaire 
 
 ## Contact
 
-- [email](info@metabiota.com)
-- [twitter](https://twitter.com/metabiota)
+info@metabiota.com
 
 
 
