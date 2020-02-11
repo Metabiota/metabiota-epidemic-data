@@ -17,7 +17,7 @@
 
 ## Citation
 
-Metabiota (2020) Epidemic Data for 2019-Novel Coronavirus (2019-nCoV) and Zaire ebolavirus in the DRC. Metabiota. San Francisco, California. www.metabiota.com
+Metabiota (2020) Epidemic Data for 2019-Novel Coronavirus (2019-nCoV) and Zaire ebolavirus in the DRC. Metabiota. San Francisco, California. https://github.com/Metabiota/metabiota-epidemic-data
 
 ## Other Resources from Metabiota
 
