@@ -112,4 +112,4 @@ Data are collected by a team of digital surveillance experts and undergo many qu
 
 ### Liability
 
-Metabiota shall in no event be liable for any decision taken by the user based on the data made available. Under no circumstances, shall Metabiota be liable for any damages (whatseover) arising out of the use or inability to use the database. The entire risk arising out of the use of the database remains with the user.
+Metabiota shall in no event be liable for any decision taken by the user based on the data made available. Under no circumstances, shall Metabiota be liable for any damages (whatsoever) arising out of the use or inability to use the database. The entire risk arising out of the use of the database remains with the user.
