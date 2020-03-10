@@ -1,45 +1,55 @@
 EVENT_NAME,SOURCE,URL_EXAMPLE
-EbolaDRC_2018,Democratic Republic of the Congo MOH Communique de Presse,http://www.minisanterdc.cd/new/
-EbolaDRC_2018,Uganda Ministry of Health Press Releases,https://health.go.ug/download/file/fid/2401
-EbolaDRC_2018,WHO AFRO External Situation Report,https://apps.who.int/iris/bitstream/handle/10665/329500/SITREP_EVD_DRC_20191027-eng.pdf
-EbolaDRC_2018,WHO AFRO Weekly Bulletin on Outbreaks and Other Emergencies,https://apps.who.int/iris/bitstream/handle/10665/325777/OEW27-0107072019.pdf
-EbolaDRC_2018,WHO DON,https://www.who.int/csr/don/04-july-2019-ebola-drc/en/
 nCoV_2019,Arizona DOH News Releases,https://www.azdhs.gov/director/public-information-office/index.php#news-release-012620
 nCoV_2019,Australia DOH Media,https://www.health.gov.au/ministers/the-hon-greg-hunt-mp/media/update-on-novel-coronavirus-in-australia
+nCoV_2019,Austria Bundesministerium COVID-19,https://www.sozialministerium.at/Themen/Gesundheit/Uebertragbare-Krankheiten/Infektionskrankheiten-A-Z/Neuartiges-Coronavirus.html
 nCoV_2019,Bavaria State MOHC Pressemitteilung,https://www.stmgp.bayern.de/presse/drei-weitere-coronavirus-faelle-in-bayern-zusammenhang-mit-dem-ersten-fall-bayerns/
 nCoV_2019,Belgium MOH 2019-nCoV Latest News,https://www.info-coronavirus.be/nl/2020/02/04/gerepatrieerde-landgenoot-testte-positief-op-het-nieuwe-coronavirus/
+nCoV_2019,Brasil Ministerio de Saude COVID-19,http://plataforma.saude.gov.br/novocoronavirus/
+nCoV_2019,Brasil Ministerio de Saude Ultimas Noticias,https://www.saude.gov.br/noticias/agencia-saude/46493-coronavirus-com-8-casos-confirmados-brasil-monitora-636-suspeitos
+nCoV_2019,CDC COVID-19,https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html
 nCoV_2019,CDC Newsroom Releases,https://www.cdc.gov/media/releases/2020/s0126-coronavirus-new-cases.html
+nCoV_2019,California DOH COVID-19,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx
 nCoV_2019,California DOH Office of Public Affairs News Releases,https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-001.aspx
+nCoV_2019,Croatia Central Public Health Institute Coronavirus Latest Data,https://www.hzjz.hr/medunarodna-istrazivanja/koronavirus-najnoviji-podatci/
+nCoV_2019,District of Columbia DOH COVID-19,https://coronavirus.dc.gov/page/coronavirus-data
 nCoV_2019,Finnish IHW Press Releases,https://thl.fi/en/web/thlfi-en/-/the-first-2019-ncov-infection-has-been-detected-in-finland-
 nCoV_2019,HK CHP Local 2019 nCoV SitReps,https://www.chp.gov.hk/files/pdf/enhanced_sur_pneumonia_wuhan_eng.pdf
 nCoV_2019,HK CHP Severe Respiratory Disease associated with a Novel Infectious Agent,https://www.chp.gov.hk/files/pdf/statistics_of_the_cases_novel_coronavirus_infection_en.pdf
 nCoV_2019,Illinois DPH News Releases,https://www.chicago.gov/city/en/depts/cdph/provdrs/health_protection_and_response/news/2020/january/city-of-chicago-announces-first-local-patient-with-travel-relate.html
 nCoV_2019,Imperial College London News,https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/
-nCoV_2019,Iran MOH Latest News,http://behdasht.gov.ir/news/%DA%A9%D9%84+%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/199876/+15+%D9%85%D9%88%D8%B1%D8%AF+%D8%AC%D8%AF%DB%8C%D8%AF+%D8%A7%D8%A8%D8%AA%D9%84%D8%A7%DB%8C+%D9%82%D8%B7%D8%B9%DB%8C+%D8%A8%D9%87+%DA%A9%D9%88%D9%88%DB%8C%D8%AF19+%D8%AF%D8%B1+%DA%A9%D8%B4%D9%88%D8%B1
-nCoV_2019,Italy MOH 2019-nCoV Situation in Italy and the World,http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5338&area=nuovoCoronavirus&menu=vuoto
+nCoV_2019,Iran MOH Latest News,http://behdasht.gov.ir/news/%DA%A9%D9%84+%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/199922/%D8%A2%D8%AE%D8%B1%DB%8C%D9%86+%D9%88%D8%B6%D8%B9%DB%8C%D8%AA+%D8%A8%DB%8C%D9%85%D8%A7%D8%B1%DB%8C+%DA%A9%D8%B1%D9%88%D9%86%D8%A7+%D8%AF%D8%B1+%DA%A9%D8%B4%D9%88%D8%B1+%D8%A7%D8%B9%D9%84%D8%A7%D9%85+%D8%B4%D8%AF+%D8%B6%D8%B1%D9%88%D8%B1%D8%AA+%D9%84%D8%BA%D9%88+%D8%B3%D9%81%D8%B1%D9%87%D8%A7%DB%8C+%D8%BA%DB%8C%D8%B1%D8%B6%D8%B1%D9%88%D8%B1%DB%8C
+nCoV_2019,Israel MOH News and Events,https://www.health.gov.il/NewsAndEvents/SpokemanMesseges/Pages/21022020_1.aspx
+nCoV_2019,Italy MOH 2019-nCoV Situation in Italy and the World,http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto
 nCoV_2019,Japan MOHLW Press Releases,https://www.mhlw.go.jp/stf/newpage_09154.html
-nCoV_2019,Korea CDC Press Release,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366289&tag=&nPage=1
-nCoV_2019,Massachusetts DOH Press Releases,https://www.mass.gov/news/man-returning-from-wuhan-china-is-first-case-of-2019-novel-coronavirus-confirmed-in
+nCoV_2019,Korea CDC Press Release,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=366301&tag=&nPage=1
+nCoV_2019,Maryland DOH COVID-19,https://phpa.health.maryland.gov/Pages/Novel-coronavirus.aspx
+nCoV_2019,Massachusetts DOH Press Releases,https://www.mass.gov/news/first-presumptive-positive-case-of-covid-19-identified-by-massachusetts-state-public-health
 nCoV_2019,Ministry of Health Singapore News Highlights,https://www.moh.gov.sg/news-highlights/details/confirmed-imported-case-of-novel-coronavirus-infection-in-singapore-multi-ministry-taskforce-ramps-up-precautionary-measures
 nCoV_2019,NHFPC Health Emergency Office News,http://www.nhc.gov.cn/yjb/s7860/202001/9614b05a8cac4ffabac10c4502fe517c.shtml
-nCoV_2019,PHAC 2019 Novel Coronavirus Infection,https://www.canada.ca/en/public-health/news/2020/01/statement-by-the-minister-of-health-on-the-first-presumptive-confirmed-traveled-related-case-of-new-coronavirus-in-canada.html
+nCoV_2019,New York State DOH COVID-19,https://www.health.ny.gov/diseases/communicable/coronavirus/
+nCoV_2019,PHAC 2019 Novel Coronavirus Infection,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html
 nCoV_2019,Philippines MOH Updates on 2019-NCOV,https://www.doh.gov.ph/doh-press-release/doh-confirms-3rd-2019-nCoV-ARD-case-in-PH
-nCoV_2019,Rospotrebnadzor News,https://www.rospotrebnadzor.ru/about/info/news/news_details.php?ELEMENT_ID=13601
-nCoV_2019,Sante publique France Actualites,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine
+nCoV_2019,Robert Koch Institute COVID-19,https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html
+nCoV_2019,Rospotrebnadzor News,https://www.rospotrebnadzor.ru/about/info/news/news_details.php?ELEMENT_ID=13923
+nCoV_2019,Sante publique France Actualites,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
 nCoV_2019,Spain MSCBS Alerts,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm
 nCoV_2019,Sri Lanka MOH Coronavirus 2020,http://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-eu-28-01.pdf
-nCoV_2019,Sweden Folkhalsomyndigheten Utbrott,https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/januari/bekraftat-fall-av-nytt-coronavirus-i-sverige/
+nCoV_2019,Sweden Folkhalsomyndigheten Utbrott,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/coronavirus-wuhan-kina-januari-2020/
+nCoV_2019,Switzerland BAG New coronavirus,https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov.html
 nCoV_2019,Taiwan CDC Press Releases,https://www.cdc.gov.tw/En/Bulletin/Detail/xqKoyQbbLYCBTwQvFpdcBA?typeid=158
 nCoV_2019,Thailand MOPH News for the Masses,https://pr.moph.go.th/?url=pr/detail/2/04/137685/
 nCoV_2019,UK Government News and Communication,https://www.gov.uk/government/news/cmo-for-england-announces-ninth-case-of-novel-coronavirus
 nCoV_2019,US Department of State Media Note,https://www.state.gov/joint-statement-by-u-s-department-of-state-and-u-s-department-of-health-and-human-services-on-repatriation-of-american-passengers-from-the-diamond-princess-cruise-ship/
 nCoV_2019,Vietnam MOH Hot News,https://www.moh.gov.vn/web/guest/tin-noi-bat/-/asset_publisher/hwUjUacn23Hf/content/hai-ca-duong-tinh-ncov-ang-ieu-tri-tai-bv-cho-ray
+nCoV_2019,Virginia DOH COVID-19,http://www.vdh.virginia.gov/surveillance-and-investigation/novel-coronavirus/
 nCoV_2019,WHO 2019-nCoV Situation Reports,https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200129-sitrep-9-ncov.pdf?sfvrsn=9e51db96_2
 nCoV_2019,WHO DON,https://www.who.int/csr/don/21-january-2020-novel-coronavirus-republic-of-korea-ex-china/en/
 nCoV_2019,WHO EMRO News,http://www.emro.who.int/media/news/who-confirms-first-cases-of-novel-coronavirus-2019-ncov-in-the-eastern-mediterranean-region.html
 nCoV_2019,WHO EMRO Weekly Epidemiological Monitor,https://reliefweb.int/sites/reliefweb.int/files/resources/22244220-2020-13-06.pdf
 nCoV_2019,WHO Egypt Media,https://twitter.com/WHOEgypt/status/1228375553130082304
 nCoV_2019,WHO News Releases,https://www.who.int/news-room/detail/13-01-2020-who-statement-on-novel-coronavirus-in-thailand
+nCoV_2019,WHO-India COVID-19 Situation Reports,https://www.who.int/docs/default-source/wrindia/india-situation-report-2.pdf?sfvrsn=962f294b_0
+nCoV_2019,Washington State DOH COVID-19,https://www.doh.wa.gov/Emergencies/Coronavirus
 nCoV_2019,Washington State DOH News Releases,https://www.doh.wa.gov/Newsroom/Articles/ID/1068/Case-of-2019-novel-coronavirus-confirmed-in-Washington-state-resident
 nCoV_2019,Wisconsin DHS News Releases,https://www.dhs.wisconsin.gov/news/releases/020520.htm
 nCoV_2019,Wuhan Municipal Health Commission Public announcements,http://wjw.wuhan.gov.cn/front/web/showDetail/2020010509020
