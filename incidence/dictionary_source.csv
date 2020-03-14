@@ -1,6 +1,6 @@
 EVENT_NAME,SOURCE,URL_EXAMPLE
 nCoV_2019,Arizona DOH News Releases,https://www.azdhs.gov/director/public-information-office/index.php#news-release-012620
-nCoV_2019,Australia DOH Media,https://www.health.gov.au/ministers/the-hon-greg-hunt-mp/media/update-on-novel-coronavirus-in-australia
+nCoV_2019,Australia DOH Media,https://www.health.gov.au/news/coronavirus-update-at-a-glance
 nCoV_2019,Austria Bundesministerium COVID-19,https://www.sozialministerium.at/Themen/Gesundheit/Uebertragbare-Krankheiten/Infektionskrankheiten-A-Z/Neuartiges-Coronavirus.html
 nCoV_2019,Bavaria State MOHC Pressemitteilung,https://www.stmgp.bayern.de/presse/drei-weitere-coronavirus-faelle-in-bayern-zusammenhang-mit-dem-ersten-fall-bayerns/
 nCoV_2019,Belgium MOH 2019-nCoV Latest News,https://www.info-coronavirus.be/nl/2020/02/04/gerepatrieerde-landgenoot-testte-positief-op-het-nieuwe-coronavirus/
@@ -30,6 +30,7 @@ nCoV_2019,NHFPC Health Emergency Office News,http://www.nhc.gov.cn/yjb/s7860/202
 nCoV_2019,New Jersey DOH COVID-19,https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml
 nCoV_2019,New York State DOH COVID-19,https://www.health.ny.gov/diseases/communicable/coronavirus/
 nCoV_2019,PHAC 2019 Novel Coronavirus Infection,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html
+nCoV_2019,Pennsylvania DOH COVID-19,https://www.health.pa.gov/topics/disease/Pages/Coronavirus%20Archive.aspx
 nCoV_2019,Philippines MOH Updates on 2019-NCOV,https://www.doh.gov.ph/doh-press-release/doh-confirms-3rd-2019-nCoV-ARD-case-in-PH
 nCoV_2019,Robert Koch Institute COVID-19,https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html
 nCoV_2019,Rospotrebnadzor News,https://www.rospotrebnadzor.ru/about/info/news/news_details.php?ELEMENT_ID=13923
