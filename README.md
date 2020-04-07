@@ -2,7 +2,7 @@
 
 **You may not use this data for commercial purposes. If there is a need for commercial use of the data, please contact Metabiota at info@metabiota.com to obtain a commercial use license.** 
 
-**FOR FUTURE ACCESS TO THE 2019-nCov DATA PLEASE USE https://data.humdata.org/dataset/2019-novel-coronavirus-cases**
+**FOR FUTURE ACCESS TO THE 2019-nCov DATA PLEASE USE: https://data.humdata.org/dataset/2019-novel-coronavirus-cases**
 **DATA IS NOT BEING UPDATED SINCE 2020-04-02 BECAUSE OF GITHUB FILE SIZE LIMITS**
 
 ## Contents
